@@ -1,6 +1,6 @@
 # Système de Gestion d'un Hôpital Intelligent
 
-Projet réalisé dans le cadre du cours d'Ingénierie des Bases de Données (MI2)
+Projet réalisé dans le cadre du cours d'Ingénierie des Bases de Données (MI)
 à la Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis.
 
 # Contexte
