@@ -971,17 +971,3 @@ END pkg_hopital;
 
 
 
-/*
-CREATE USER tp_user IDENTIFIED BY tp123;
-GRANT CONNECT, RESOURCE TO tp_user;
-ALTER USER tp_user QUOTA UNLIMITED ON USERS;
-
-
-run this command pour connect to tp_user ********
-
-sqlplus tp_user/tp123@localhost:1521/XEPDB1
-
- @1000-complet.sql
- @100-test.sql
- @delete.sql
-*/
