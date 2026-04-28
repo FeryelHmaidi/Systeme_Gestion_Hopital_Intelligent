@@ -40,6 +40,4 @@ Les tables principales :
 - Oracle Database
 - VS Code avec Oracle Developer Tools
 
-
-Feryel Hmaidi — Étudiante en Ingénierie Informatique MI2  
 [LinkedIn](https://linkedin.com/in/feryel-hmaidi-25b298330)
